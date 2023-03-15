@@ -11,17 +11,17 @@
 }
 
 figure img {
-    width: 330px;
+    width: 320px;
     height: 200px;
 }
 
 .cr-figs figure {
     display: inline-block;
-    margin: 10px;
+    margin: 15px;
 }
 
 .cr-figs figure img {
-    width: 280px;
+    width: 300px;
 }
 
 .section h2 {
